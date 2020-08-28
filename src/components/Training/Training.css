@@ -1,0 +1,21 @@
+.training{
+    display: flex;
+    border-bottom: 2px solid lightblue;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    padding-bottom: 10px;
+    margin-left: 20%;
+}
+.training img{
+    height: 200px;
+    width: 350px;
+}
+.training h4{
+    color: maroon;
+}
+.description{
+    margin-left: 5%;
+}
+.description button{
+    cursor: pointer;
+}
